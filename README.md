@@ -1,8 +1,10 @@
 # 🤖 Strands SRE Agent Studio
 > Orchestrate autonomous SRE troubleshooters. Generate single-agent or swarm workflows, Model Context Protocol (MCP) integrations, and OpenTelemetry logging traces using the Strands SDK.
 
-[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari14.github.io/portfolio/tools/strands/)
+[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari.me/tools/strands/)
 [![Category](https://img.shields.io/badge/Category-ai-blue)]()
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
 
 ---
 
@@ -20,7 +22,7 @@ Each option combination produces different output — try different settings to 
 ## 🔄 Workflow
 
 ```
-1. Open Studio → https://pradeeptalari14.github.io/portfolio/tools/strands/
+1. Open Studio → https://pradeeptalari.me/tools/strands/
 2. Configure all parameters (options change the generated output)
 3. Review the live output in the editor tabs
 4. Download or Copy the generated files
@@ -47,7 +49,10 @@ cd tp-strands
 
 | Resource | Link |
 |----------|------|
-| Interactive Studio | [Open →](https://pradeeptalari14.github.io/portfolio/tools/strands/) |
-| All 91 Studios | [Dashboard →](https://pradeeptalari14.github.io/portfolio/tools/) |
+| Interactive Studio | [Open →](https://pradeeptalari.me/tools/strands/) |
+| All 91 Studios | [Dashboard →](https://pradeeptalari.me/tools/) |
 
-*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari14.github.io/portfolio)*
+*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari.me)*
+
+---
+*Synchronized with [Strands SRE Agent Studio Studio](https://pradeeptalari.me/tools/strands/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
